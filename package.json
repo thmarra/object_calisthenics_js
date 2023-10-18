@@ -1,0 +1,11 @@
+{
+  "name": "object_calisthenics",
+  "version": "1.0.0",
+  "description": "Exemplos de códigos aplicando object calisthenics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thalita Marra",
+  "license": "ISC"
+}
